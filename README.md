@@ -12,7 +12,7 @@ This project demonstrates:
 - Interfacing a 7-segment display with STM32
 - Configuring GPIO pins as outputs (segments a–g)
 - Using GPIO pins as inputs for push buttons
-- Handling button presses with **external interrupts (EXTI)**
+- Handling button presses with external interrupts (EXTI)
 - Incrementing and decrementing a counter from 0–9
 - Implementing modulo logic to wrap around:
   - Increment: 9 → 0
