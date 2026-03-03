@@ -1,7 +1,7 @@
 # 7-Segment Counter with Increment/Decrement Buttons – STM32
 
 An embedded systems project that increments or decrements a single-digit number (0–9) on a 7-segment display using two push buttons.  
-The buttons are handled via **external interrupts (EXTI peripheral)** for immediate response.
+The buttons are handled via external interrupts (EXTI peripheral) for immediate response.
 
 ---
 
